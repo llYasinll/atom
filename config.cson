@@ -6,8 +6,10 @@
     enabled: true
   core:
     telemetryConsent: "no"
+    useCustomTitleBar: true
   editor:
     scrollPastEnd: true
+    showIndentGuide: true
   "exception-reporting":
     userId: "b552cb4c-b0ba-70c8-1d97-1317acaf43a5"
   "tree-view":
