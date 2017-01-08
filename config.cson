@@ -6,7 +6,6 @@
     enabled: true
   core:
     telemetryConsent: "no"
-    useCustomTitleBar: true
   editor:
     scrollPastEnd: true
   "exception-reporting":
