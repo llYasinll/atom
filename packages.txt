@@ -1,0 +1,5 @@
+atom-beautify@0.29.16
+emmet@2.4.3
+pigments@0.37.0
+
+
