@@ -33,11 +33,11 @@
 
 #Navigation
     'atom-text-editor':
-        'ctrl-e': 'editor:move-to-end-of-line',
-        'ctrl-w': 'editor:move-to-beginning-of-line'
-        'ctrl-i': 'core:move-up'
-        'ctrl-k': 'core:move-down'
-        'ctrl-j': 'core:move-left'
-        'ctrl-l': 'core:move-right'
-        'ctrl-;': 'editor:move-to-end-of-word'
-        'ctrl-h': 'editor:move-to-beginning-of-word'
+        'cmd-e': 'editor:move-to-end-of-line',
+        'cmd-w': 'editor:move-to-beginning-of-line'
+        'cmd-i': 'core:move-up'
+        'cmd-k': 'core:move-down'
+        'cmd-j': 'core:move-left'
+        'cmd-l': 'core:move-right'
+        'cmd-;': 'editor:move-to-end-of-word'
+        'cmd-h': 'editor:move-to-beginning-of-word'
