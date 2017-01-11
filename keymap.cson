@@ -35,9 +35,4 @@
     'atom-text-editor':
         'cmd-e': 'editor:move-to-end-of-line',
         'cmd-w': 'editor:move-to-beginning-of-line'
-        'cmd-i': 'core:move-up'
-        'cmd-k': 'core:move-down'
-        'cmd-j': 'core:move-left'
-        'cmd-l': 'core:move-right'
-        'cmd-;': 'editor:move-to-end-of-word'
-        'cmd-h': 'editor:move-to-beginning-of-word'
+        'cmd-t': 'atom-beautify:beautify-editor'
